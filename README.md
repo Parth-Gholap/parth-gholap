@@ -1,6 +1,5 @@
 # Hi there, I'm Parth Gholap 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=parth-gholap&show_icons=true&theme=radical&icon_color=03A9F4&text_color=D3D3D3&bg_color=19222E" />
 </a>
 
@@ -34,7 +33,7 @@ Here are a few of the technologies I've been working with recently:
 
 My proudest creation so far is **Brain Quest**. It was a fantastic journey of applying my skills to build something meaningful and engaging.
 
-➡️ **[Check out Brain Quest]()**
+➡️ **[Check out Brain Quest](<a href="https://github.com/anuraghazra/github-readme-stats">)**
 
 ---
 
