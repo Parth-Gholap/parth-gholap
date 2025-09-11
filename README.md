@@ -30,7 +30,7 @@ Here are a few of the technologies I've been working with recently:
 
 My proudest creation so far is **Brain Quest**. It was a fantastic journey of applying my skills to build something meaningful and engaging.
 
-➡️ **[Check out Brain Quest](https://brain-quest-jet.vercel.app/home)**
+➡️ **[Check out Brain Quest](https://brain-quest-jet.vercel.app)**
 
 ---
 
