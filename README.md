@@ -1,8 +1,5 @@
 # Hi there, I'm Parth Gholap 👋
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=parth-gholap&show_icons=true&theme=radical&icon_color=03A9F4&text_color=D3D3D3&bg_color=19222E" />
-</a>
-
 I'm a student and aspiring developer from India, on a mission to turn complex problems into elegant, interactive solutions. I thrive on building things from the ground up and love the thrill of bringing an idea to life through code.
 
 ---
@@ -33,7 +30,7 @@ Here are a few of the technologies I've been working with recently:
 
 My proudest creation so far is **Brain Quest**. It was a fantastic journey of applying my skills to build something meaningful and engaging.
 
-<a href="https://brain-quest-jet.vercel.app/home">
+➡️ **[Check out Brain Quest](https://brain-quest-jet.vercel.app/home)**
 
 ---
 
