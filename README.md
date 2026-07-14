@@ -6,7 +6,7 @@
 <br/>
 
 <!-- INTERACTIVE TYPING SVGs -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3500&pause=900&color=8B5CF6&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=%E2%80%9CTurning+complex+problems+into+elegant%2C+interactive+solutions%E2%80%9D;%E2%80%9CPython+%C2%B7+Java+%C2%B7+JavaScript+%C2%B7+SQL+%E2%80%94+Built+from+the+ground+up%E2%80%9D;%E2%80%9CGSoC+Innovators+Hackathon+🏆+4th+Place%E2%80%9D;%E2%80%9CSolVIT+Hackathon+🎯+Final+Round+Qualifier%E2%80%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3500&pause=900&color=8B5CF6&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=Turning+complex+problems+into+elegant+interactive+solutions;Python+%7C+Java+%7C+JavaScript+%7C+SQL+-+Built+from+the+ground+up;GSoC+Innovators+Hackathon+4th+Place;SolVIT+Hackathon+Finalist" alt="Typing SVG" />
 
 <br/>
 
@@ -255,6 +255,24 @@ Status   →  🎯 Qualified for Final Round
 <tr>
 <td align="center" width="50%">
 
+**⚔ LEETCODE**
+
+<a href="https://leetcode.com/parth-gholap/">
+  <img src="https://leetcard.jacoblin.cool/parth-gholap?theme=dark&font=Nunito&ext=contest&border=0&radius=10" width="92%"/>
+</a>
+
+```
+✅ Coding Practice Active
+📈 Rating Tracker Enabled
+🌍 Global Challenges
+🔥 Keep Shifting
+```
+
+[![LeetCode](https://img.shields.io/badge/OPEN%20LEETCODE-FFA116?style=for-the-badge&labelColor=0d112d&logo=leetcode&logoColor=FFA116)](https://leetcode.com/parth-gholap/)
+
+</td>
+<td align="center" width="50%">
+
 **🏅 HACKERRANK**
 
 <br/>
@@ -315,6 +333,9 @@ Status   →  🎯 Qualified for Final Round
 </a>
 
 <br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Open+to+Collaborations+%26+Developer+Internships;Always+shipping+new+ideas" alt="Contact" />
+
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="680"/>
