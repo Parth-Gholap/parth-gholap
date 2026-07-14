@@ -255,24 +255,6 @@ Status   →  🎯 Qualified for Final Round
 <tr>
 <td align="center" width="50%">
 
-**⚔ LEETCODE**
-
-<a href="https://leetcode.com/parth-gholap/">
-  <img src="https://leetcard.jacoblin.cool/parth-gholap?theme=dark&font=Nunito&ext=contest&border=0&radius=10" width="92%"/>
-</a>
-
-```
-✅ Coding Practice Active
-📈 Rating Tracker Enabled
-🌍 Global Challenges
-🔥 Keep Shifting
-```
-
-[![LeetCode](https://img.shields.io/badge/OPEN%20LEETCODE-FFA116?style=for-the-badge&labelColor=0d0820&logo=leetcode&logoColor=FFA116)](https://leetcode.com/parth-gholap/)
-
-</td>
-<td align="center" width="50%">
-
 **🏅 HACKERRANK**
 
 <br/>
@@ -291,24 +273,6 @@ Status   →  🎯 Qualified for Final Round
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 〈 HALL OF TROPHIES 〉
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=parth-gholap&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parth-gholap/parth-gholap/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parth-gholap/parth-gholap/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/parth-gholap/parth-gholap/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 </div>
 
