@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASPIRING%20DEVELOPER-D4AF6E?style=for-the-badge&labelColor=0d0820&color=0d0820&logoColor=D4AF6E" />
+  <img src="https://img.shields.io/badge/ASPIRING%20DEVELOPER-D4AF6E?style=for-the-badge&labelColor=0d0820&color=0d0820" />
   &nbsp;
   <img src="https://img.shields.io/badge/STUDENT%20%26%20BUILDER-D4AF6E?style=for-the-badge&labelColor=0d0820&color=0d0820" />
   &nbsp;
@@ -22,8 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=parth-gholap&label=PROFILE+VIEWS&color=D4AF6E&style=flat-square&labelColor=0d0820" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/parth-gholap?label=FOLLOWERS&style=flat-square&color=D4AF6E&labelColor=0d0820&logo=github&logoColor=D4AF6E" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/parth-gholap?label=TOTAL%20STARS&style=flat-square&color=D4AF6E&labelColor=0d0820&logo=github&logoColor=D4AF6E" />
 </p>
 
 </div>
@@ -32,7 +30,7 @@
 
 ## 〈 WHO IS THIS GUY 〉
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
 ```typescript
 const ParthGholap: Developer = {
@@ -184,24 +182,7 @@ Challenge→  Pushed limits in design & efficiency
 
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" title="Python"/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" title="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=java" width="58" title="Java"/>
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="58" title="C++"/>
-
-**WEB & DATABASE**
-
-<img src="https://skillicons.dev/icons?i=html" width="58" title="HTML5"/>
-<img src="https://skillicons.dev/icons?i=css" width="58" title="CSS3"/>
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" title="MySQL"/>
-
-**TOOLS & DEVOPS**
-
-<img src="https://skillicons.dev/icons?i=git" width="58" title="Git"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="58" title="GitHub"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="58" title="VS Code"/>
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,cpp,html,css,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -215,6 +196,7 @@ Challenge→  Pushed limits in design & efficiency
 
 <br/>
 
+<!-- NOTE: The contribution snake animation below requires setting up the github-user-contribution action in your repository workflow. If you haven't activated it yet, this image may appear broken. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parth-gholap/parth-gholap/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parth-gholap/parth-gholap/output/github-contribution-grid-snake.svg">
@@ -245,11 +227,8 @@ Challenge→  Pushed limits in design & efficiency
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="680"/>
-
-<br/><br/>
-
-> *"First, solve the problem. Then, write the code."*
+> "First, solve the problem. Then, write the code." 
+> — John Johnson
 
 </div>
 
