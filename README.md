@@ -1,33 +1,33 @@
 <div align="center">
 
-<!-- PREMIUM ANIMATED BANNER (Blue/Purple Venom Theme) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090915,40:0d112d,100:070714&height=360&section=header&text=PARTH%20GHOLAP&fontSize=84&fontAlignY=38&animation=fadeIn&fontColor=8B5CF6&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Architect&descSize=16&descAlignY=58&stroke=3B82F6&strokeWidth=1.5" width="100%"/>
+<!-- PREMIUM ANIMATED BANNER (Gold/Dark Venom Theme) -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,40:0d0820,100:0a0a1a&height=360&section=header&text=PARTH%20GHOLAP&fontSize=84&fontAlignY=38&animation=fadeIn&fontColor=D4AF6E&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Architect&descSize=16&descAlignY=58&stroke=B8962E&strokeWidth=1.5" width="100%"/>
 
 <br/>
 
 <!-- INTERACTIVE TYPING SVGs -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3500&pause=900&color=8B5CF6&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=Turning+complex+problems+into+elegant+interactive+solutions;Python+%7C+Java+%7C+JavaScript+%7C+SQL+-+Built+from+the+ground+up;GSoC+Innovators+Hackathon+4th+Place;SolVIT+Hackathon+Finalist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=3500&pause=900&color=D4AF6E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=Turning+complex+problems+into+elegant+interactive+solutions;Python+%7C+Java+%7C+JavaScript+%7C+SQL+-+Built+from+the+ground+up;GSoC+Innovators+Hackathon+4th+Place;SolVIT+Hackathon+Finalist" alt="Typing SVG" />
 
 <br/>
 
-<!-- GLASSMORPHISM-STYLED SHIELD BADGES -->
+<!-- PREMIUM GOLD/DARK THEMED BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-3B82F6?style=for-the-badge&labelColor=0d112d&color=0d112d" />
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-D4AF6E?style=for-the-badge&labelColor=0d0820&color=0d0820" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STUDENT%20%26%20BUILDER-8B5CF6?style=for-the-badge&labelColor=0d112d&color=0d112d" />
+  <img src="https://img.shields.io/badge/STUDENT%20%26%20BUILDER-D4AF6E?style=for-the-badge&labelColor=0d0820&color=0d0820" />
   &nbsp;
-  <img src="https://img.shields.io/badge/HACKATHON%20WINNER-10B981?style=for-the-badge&labelColor=0d112d&color=0d112d" />
+  <img src="https://img.shields.io/badge/HACKATHON%20WINNER-D4AF6E?style=for-the-badge&labelColor=0d0820&color=0d0820" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AUTOMATION-EC4899?style=for-the-badge&labelColor=0d112d&color=0d112d" />
+  <img src="https://img.shields.io/badge/AUTOMATION-D4AF6E?style=for-the-badge&labelColor=0d0820&color=0d0820" />
 </p>
 
 <!-- TRAFFIC METRIC PANEL -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parth-gholap&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square&labelColor=0d112d" />
+  <img src="https://komarev.com/ghpvc/?username=parth-gholap&label=PROFILE+VIEWS&color=D4AF6E&style=flat-square&labelColor=0d0820" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/parth-gholap?label=FOLLOWERS&style=flat-square&color=3B82F6&labelColor=0d112d&logo=github&logoColor=3B82F6" />
+  <img src="https://img.shields.io/github/followers/parth-gholap?label=FOLLOWERS&style=flat-square&color=D4AF6E&labelColor=0d0820&logo=github&logoColor=D4AF6E" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/parth-gholap?label=TOTAL%20STARS&style=flat-square&color=8B5CF6&labelColor=0d112d&logo=github&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/github/stars/parth-gholap?label=TOTAL%20STARS&style=flat-square&color=D4AF6E&labelColor=0d0820&logo=github&logoColor=D4AF6E" />
 </p>
 
 </div>
@@ -84,14 +84,14 @@ const ParthGholap: Developer = {
 <div align="center">
 
 <!-- GITHUB STATS & STREAK CARDS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parth-gholap&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=3b82f6&text_color=e2e8f0&bg_color=0b0f19&border_radius=12&include_all_commits=true&custom_title=Parth's+GitHub+Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-gholap&theme=dark&hide_border=true&stroke=8b5cf6&background=0b0f19&ring=8b5cf6&fire=3b82f6&currStreakLabel=e2e8f0&border_radius=12&dates=e2e8f0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parth-gholap&show_icons=true&count_private=true&hide_border=true&title_color=D4AF6E&icon_color=D4AF6E&text_color=E8D5B7&bg_color=0d0d1a&border_radius=10&include_all_commits=true&custom_title=Parth's+GitHub+Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-gholap&theme=dark&hide_border=true&stroke=D4AF6E&background=0D0D1A&ring=D4AF6E&fire=FFD700&currStreakLabel=D4AF6E&border_radius=10&dates=E8D5B7" />
 
 <br/><br/>
 
 <!-- TOP LANGUAGES & ACTIVITY GRAPH -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-gholap&layout=compact&hide_border=true&title_color=8b5cf6&text_color=e2e8f0&bg_color=0b0f19&border_radius=12&langs_count=10&custom_title=Most+Used+Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=parth-gholap&bg_color=0b0f19&color=8b5cf6&line=3b82f6&point=8b5cf6&area=true&area_color=3b82f6&hide_border=true&border_radius=12&custom_title=Contribution+Activity" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-gholap&layout=compact&hide_border=true&title_color=D4AF6E&text_color=E8D5B7&bg_color=0d0d1a&border_radius=10&langs_count=10&custom_title=Most+Used+Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=parth-gholap&bg_color=0D0D1A&color=D4AF6E&line=D4AF6E&point=FFD700&area=true&area_color=D4AF6E&hide_border=true&border_radius=10&custom_title=Contribution+Activity" />
 
 <br/><br/>
 
@@ -127,7 +127,7 @@ Scale    →  🏆 4th Place (National Level)
 Status   →  ✅ Successfully Completed
 ```
 
-[![Repo](https://img.shields.io/badge/VIEW%20PROJECT-3B82F6?style=for-the-badge&labelColor=0d112d&logo=github&logoColor=3B82F6)](https://github.com/parth-gholap)
+[![Repo](https://img.shields.io/badge/VIEW%20PROJECT-D4AF6E?style=for-the-badge&labelColor=0d0820&logo=github&logoColor=D4AF6E)](https://github.com/parth-gholap)
 
 </div>
 </td>
@@ -145,7 +145,7 @@ Scale    →  Automated scheduling + API calls
 Status   →  ✅ Production Ready
 ```
 
-[![Repo](https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&labelColor=0d112d&logo=github&logoColor=3B82F6)](https://github.com/parth-gholap)
+[![Repo](https://img.shields.io/badge/VIEW%20PROJECT-D4AF6E?style=for-the-badge&labelColor=0d0820&logo=github&logoColor=D4AF6E)](https://github.com/parth-gholap)
 
 </div>
 </td>
@@ -174,8 +174,8 @@ Deploy   →  Vercel Edge Network
 
 `HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` &nbsp; `Web API`
 
-[![Live](https://img.shields.io/badge/LIVE%20DEMO-00C851?style=flat-square&labelColor=0d112d)](https://brain-quest-jet.vercel.app)
-[![Code](https://img.shields.io/badge/SOURCE-3B82F6?style=flat-square&labelColor=0d112d&logo=github&logoColor=3B82F6)](https://github.com/parth-gholap)
+[![Live](https://img.shields.io/badge/LIVE%20DEMO-00C851?style=flat-square&labelColor=0d0820)](https://brain-quest-jet.vercel.app)
+[![Code](https://img.shields.io/badge/SOURCE-D4AF6E?style=flat-square&labelColor=0d0820&logo=github&logoColor=D4AF6E)](https://github.com/parth-gholap)
 
 </div>
 </td>
@@ -194,8 +194,8 @@ Status   →  🎯 Qualified for Final Round
 
 `Python` &nbsp; `Flask` &nbsp; `MySQL` &nbsp; `Bootstrap`
 
-[![Visit](https://img.shields.io/badge/VIEW%20SITE-00C851?style=flat-square&labelColor=0d112d)](https://github.com/parth-gholap)
-[![Code](https://img.shields.io/badge/SOURCE-8B5CF6?style=flat-square&labelColor=0d112d&logo=github&logoColor=3B82F6)](https://github.com/parth-gholap)
+[![Visit](https://img.shields.io/badge/VIEW%20SITE-00C851?style=flat-square&labelColor=0d0820)](https://github.com/parth-gholap)
+[![Code](https://img.shields.io/badge/SOURCE-D4AF6E?style=flat-square&labelColor=0d0820&logo=github&logoColor=D4AF6E)](https://github.com/parth-gholap)
 
 </div>
 </td>
@@ -214,7 +214,7 @@ Status   →  🎯 Qualified for Final Round
 | 🛒 Database Architecture | SQL · MySQL · E-R Diagrams | Database Design | ⭐ |
 | 🤖 SpecKit Validations | SpecKit · JavaScript | Testing / QA | ⭐ |
 
-[![Explore Repos](https://img.shields.io/badge/🗂%20EXPLORE%20ALL%20REPOSITORIES-8B5CF6?style=for-the-badge&labelColor=0d112d)](https://github.com/parth-gholap?tab=repositories)
+[![Explore Repos](https://img.shields.io/badge/🗂%20EXPLORE%20ALL%20REPOSITORIES-D4AF6E?style=for-the-badge&labelColor=0d0820)](https://github.com/parth-gholap?tab=repositories)
 
 </div>
 
@@ -268,7 +268,7 @@ Status   →  🎯 Qualified for Final Round
 🔥 Keep Shifting
 ```
 
-[![LeetCode](https://img.shields.io/badge/OPEN%20LEETCODE-FFA116?style=for-the-badge&labelColor=0d112d&logo=leetcode&logoColor=FFA116)](https://leetcode.com/parth-gholap/)
+[![LeetCode](https://img.shields.io/badge/OPEN%20LEETCODE-FFA116?style=for-the-badge&labelColor=0d0820&logo=leetcode&logoColor=FFA116)](https://leetcode.com/parth-gholap/)
 
 </td>
 <td align="center" width="50%">
@@ -286,7 +286,7 @@ Status   →  🎯 Qualified for Final Round
 🥇 SQL Certified
 ```
 
-[![HackerRank](https://img.shields.io/badge/OPEN%20HACKERRANK-2EC866?style=for-the-badge&labelColor=0d112d&logo=hackerrank)](https://www.hackerrank.com/parth-gholap)
+[![HackerRank](https://img.shields.io/badge/OPEN%20HACKERRANK-2EC866?style=for-the-badge&labelColor=0d0820&logo=hackerrank)](https://www.hackerrank.com/parth-gholap)
 
 </td>
 </tr>
@@ -321,24 +321,20 @@ Status   →  🎯 Qualified for Final Round
 <br/>
 
 <a href="https://www.linkedin.com/in/parth-gholap-474696325/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d112d" height="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0820" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:parthgholap.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d112d" height="40"/>
+  <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0820" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/parth-gholap">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repos-3B82F6?style=for-the-badge&logo=github&logoColor=3B82F6&labelColor=0d112d" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20Repos-D4AF6E?style=for-the-badge&logo=github&logoColor=D4AF6E&labelColor=0d0820" height="40"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Open+to+Collaborations+%26+Developer+Internships;Always+shipping+new+ideas" alt="Contact" />
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="680"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=18&duration=3000&pause=1000&color=D4AF6E&center=true&vCenter=true&width=620&lines=Open+to+Collaborations+%26+Developer+Internships;Always+shipping+new+ideas" alt="Contact" />
 
 <br/><br/>
 
@@ -354,10 +350,10 @@ Status   →  🎯 Qualified for Final Round
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=parth-gholap&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS&labelColor=0d112d" />
+<img src="https://komarev.com/ghpvc/?username=parth-gholap&style=flat-square&color=D4AF6E&label=PROFILE+VIEWS&labelColor=0d0820" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090915,50:0d112d,100:070714&height=130&section=footer&animation=twinkling&fontColor=8B5CF6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:0d0820,100:050510&height=130&section=footer&animation=twinkling&fontColor=D4AF6E" width="100%"/>
