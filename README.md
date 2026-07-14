@@ -255,24 +255,6 @@ Status   →  🎯 Qualified for Final Round
 <tr>
 <td align="center" width="50%">
 
-**⚔ LEETCODE**
-
-<a href="https://leetcode.com/parth-gholap/">
-  <img src="https://leetcard.jacoblin.cool/parth-gholap?theme=dark&font=Nunito&ext=contest&border=0&radius=10" width="92%"/>
-</a>
-
-```
-✅ Coding Practice Active
-📈 Rating Tracker Enabled
-🌍 Global Challenges
-🔥 Keep Shifting
-```
-
-[![LeetCode](https://img.shields.io/badge/OPEN%20LEETCODE-FFA116?style=for-the-badge&labelColor=0d112d&logo=leetcode&logoColor=FFA116)](https://leetcode.com/parth-gholap/)
-
-</td>
-<td align="center" width="50%">
-
 **🏅 HACKERRANK**
 
 <br/>
