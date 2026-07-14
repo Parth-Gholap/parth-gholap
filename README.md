@@ -315,9 +315,6 @@ Status   →  🎯 Qualified for Final Round
 </a>
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=💼+Open+to+Collaborations+%26+Developer+Internships;🚀+Always+shipping+new+ideas" alt="Contact" />
-
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="680"/>
